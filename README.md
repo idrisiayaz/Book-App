@@ -1,15 +1,3 @@
 # Book-App
 An android application developed using Android Studio's in java programming language.
-![Screenshot_20220706-233632](https://user-images.githubusercontent.com/88124100/177616443-9a98b6e0-6b35-47e4-a362-13beb19074fb.jpg)
-![Screenshot_20220706-233838](https://user-images.githubusercontent.com/88124100/177616486-15326f04-d3ff-497e-9a2e-a1ccf4ed2468.jpg)
-![Screenshot_20220706-233812](https://user-images.githubusercontent.com/88124100/177616552-cc8485c1-17d4-4510-9b01-6e33e76c022f.jpg)
-![Screenshot_20220706-233746](https://user-images.githubusercontent.com/88124100/177616556-3d3a4636-9679-4a58-a62f-c1f07e52cff1.jpg)
-![Screenshot_20220706-233648](https://user-images.githubusercontent.com/88124100/177616557-5848da28-0ec1-495a-8db7-cbd8a4009977.jpg)
-![Screenshot_20220706-234048](https://user-images.githubusercontent.com/88124100/177616560-61d488c6-d497-4ff8-976e-18acfd6d3112.jpg)
-![Screenshot_20220706-234043](https://user-images.githubusercontent.com/88124100/177616565-1b33a8d9-c83a-4e00-9546-1aaf9e69b1ed.jpg)
-![Screenshot_20220706-234038](https://user-images.githubusercontent.com/88124100/177616568-e067442e-9b26-4cc1-abd8-87a9c47cce8a.jpg)
-![Screenshot_20220706-234029](https://user-images.githubusercontent.com/88124100/177616575-b95f5ed6-c42d-4e73-ba33-55a84438e151.jpg)
-![Screenshot_20220706-234023](https://user-images.githubusercontent.com/88124100/177616578-a25e32e0-9316-4b85-b3ff-5bf15db453e9.jpg)
-![Screenshot_20220706-234010](https://user-images.githubusercontent.com/88124100/177616582-0b65ca1d-a2d6-46ef-a2d7-80be1c527436.jpg)
-![Screenshot_20220706-233850](https://user-images.githubusercontent.com/88124100/177616585-ca40e80e-182e-451a-9af6-529e8dc35bca.jpg)
-![Screenshot_20220706-233845](https://user-images.githubusercontent.com/88124100/177616588-4b0c3a0e-b9d5-4665-b3d2-fefcbd1984e3.jpg)
+
